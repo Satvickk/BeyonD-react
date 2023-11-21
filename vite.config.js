@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'dist', // specify the output directory for the build
   },
+  base: '/BeyonD-react/',
 });
